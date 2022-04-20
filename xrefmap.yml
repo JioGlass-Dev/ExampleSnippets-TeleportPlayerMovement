@@ -1,0 +1,82 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Global
+  name: Global
+  href: api/Global.html
+  name.vb: ''
+  fullName: Global
+  fullName.vb: ''
+  nameWithType: Global
+  nameWithType.vb: ''
+- uid: Global.TeleportBasedMovement
+  name: TeleportBasedMovement
+  href: api/Global.TeleportBasedMovement.html
+  commentId: T:Global.TeleportBasedMovement
+  fullName: TeleportBasedMovement
+  nameWithType: TeleportBasedMovement
+- uid: Global.TeleportBasedMovement.OnFn1Action
+  name: OnFn1Action()
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnFn1Action
+  commentId: M:Global.TeleportBasedMovement.OnFn1Action
+  fullName: TeleportBasedMovement.OnFn1Action()
+  nameWithType: TeleportBasedMovement.OnFn1Action()
+- uid: Global.TeleportBasedMovement.OnFn1Action*
+  name: OnFn1Action
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnFn1Action_
+  commentId: Overload:Global.TeleportBasedMovement.OnFn1Action
+  isSpec: "True"
+  fullName: TeleportBasedMovement.OnFn1Action
+  nameWithType: TeleportBasedMovement.OnFn1Action
+- uid: Global.TeleportBasedMovement.OnSelectClicked(SelectClickEventData)
+  name: OnSelectClicked(SelectClickEventData)
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnSelectClicked_SelectClickEventData_
+  commentId: M:Global.TeleportBasedMovement.OnSelectClicked(SelectClickEventData)
+  fullName: TeleportBasedMovement.OnSelectClicked(SelectClickEventData)
+  nameWithType: TeleportBasedMovement.OnSelectClicked(SelectClickEventData)
+- uid: Global.TeleportBasedMovement.OnSelectClicked*
+  name: OnSelectClicked
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnSelectClicked_
+  commentId: Overload:Global.TeleportBasedMovement.OnSelectClicked
+  isSpec: "True"
+  fullName: TeleportBasedMovement.OnSelectClicked
+  nameWithType: TeleportBasedMovement.OnSelectClicked
+- uid: Global.TeleportBasedMovement.OnTouchStart(TouchEventData,Vector2)
+  name: OnTouchStart(TouchEventData, Vector2)
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnTouchStart_TouchEventData_Vector2_
+  commentId: M:Global.TeleportBasedMovement.OnTouchStart(TouchEventData,Vector2)
+  fullName: TeleportBasedMovement.OnTouchStart(TouchEventData, Vector2)
+  nameWithType: TeleportBasedMovement.OnTouchStart(TouchEventData, Vector2)
+- uid: Global.TeleportBasedMovement.OnTouchStart*
+  name: OnTouchStart
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnTouchStart_
+  commentId: Overload:Global.TeleportBasedMovement.OnTouchStart
+  isSpec: "True"
+  fullName: TeleportBasedMovement.OnTouchStart
+  nameWithType: TeleportBasedMovement.OnTouchStart
+- uid: Global.TeleportBasedMovement.OnTouchStop(TouchEventData,Vector2)
+  name: OnTouchStop(TouchEventData, Vector2)
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnTouchStop_TouchEventData_Vector2_
+  commentId: M:Global.TeleportBasedMovement.OnTouchStop(TouchEventData,Vector2)
+  fullName: TeleportBasedMovement.OnTouchStop(TouchEventData, Vector2)
+  nameWithType: TeleportBasedMovement.OnTouchStop(TouchEventData, Vector2)
+- uid: Global.TeleportBasedMovement.OnTouchStop*
+  name: OnTouchStop
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnTouchStop_
+  commentId: Overload:Global.TeleportBasedMovement.OnTouchStop
+  isSpec: "True"
+  fullName: TeleportBasedMovement.OnTouchStop
+  nameWithType: TeleportBasedMovement.OnTouchStop
+- uid: Global.TeleportBasedMovement.OnTouchUpdated(TouchEventData,Vector2)
+  name: OnTouchUpdated(TouchEventData, Vector2)
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnTouchUpdated_TouchEventData_Vector2_
+  commentId: M:Global.TeleportBasedMovement.OnTouchUpdated(TouchEventData,Vector2)
+  fullName: TeleportBasedMovement.OnTouchUpdated(TouchEventData, Vector2)
+  nameWithType: TeleportBasedMovement.OnTouchUpdated(TouchEventData, Vector2)
+- uid: Global.TeleportBasedMovement.OnTouchUpdated*
+  name: OnTouchUpdated
+  href: api/Global.TeleportBasedMovement.html#Global_TeleportBasedMovement_OnTouchUpdated_
+  commentId: Overload:Global.TeleportBasedMovement.OnTouchUpdated
+  isSpec: "True"
+  fullName: TeleportBasedMovement.OnTouchUpdated
+  nameWithType: TeleportBasedMovement.OnTouchUpdated

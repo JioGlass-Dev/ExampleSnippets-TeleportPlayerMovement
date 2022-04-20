@@ -1,0 +1,22 @@
+{
+  "api/Global.html": {
+    "href": "api/Global.html",
+    "title": "Namespace Global | JMR Samples",
+    "keywords": "Namespace Global Classes TeleportBasedMovement Example for movement by teleportation. Press fn1 button to start ray, swipe to change distance, press trigger to teleport or press fn1 again to stop ray"
+  },
+  "api/Global.TeleportBasedMovement.html": {
+    "href": "api/Global.TeleportBasedMovement.html",
+    "title": "Class TeleportBasedMovement | JMR Samples",
+    "keywords": "Class TeleportBasedMovement Example for movement by teleportation. Press fn1 button to start ray, swipe to change distance, press trigger to teleport or press fn1 again to stop ray Inheritance Object TeleportBasedMovement Implements IFn1Handler ISelectClickHandler ITouchHandler Namespace : Global Assembly : cs.temp.dll.dll Syntax public class TeleportBasedMovement : MonoBehaviour Remarks Stop any other movement while teleportation Methods OnFn1Action() Switch between projection and non projection mode Declaration public void OnFn1Action() OnSelectClicked(SelectClickEventData) If a valid projection is present, and player presses the trigger button, start teleport action Declaration public void OnSelectClicked(SelectClickEventData eventData) Parameters Type Name Description SelectClickEventData eventData Click related event data OnTouchStart(TouchEventData, Vector2) Declaration public void OnTouchStart(TouchEventData eventData, Vector2 touchData) Parameters Type Name Description TouchEventData eventData Vector2 touchData OnTouchStop(TouchEventData, Vector2) Declaration public void OnTouchStop(TouchEventData eventData, Vector2 touchData) Parameters Type Name Description TouchEventData eventData Vector2 touchData OnTouchUpdated(TouchEventData, Vector2) Change the projection destination by distance multiplier based on touch value Declaration public void OnTouchUpdated(TouchEventData eventData, Vector2 touchData) Parameters Type Name Description TouchEventData eventData event data for touch Vector2 touchData touch position Implements IFn1Handler ISelectClickHandler ITouchHandler"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Teleport Player Movement | JMR Samples",
+    "keywords": "Teleport Player Movement Example of implementing teleport based player movement Scripts TeleportPlayerMovement.cs Shows example of moving the player using teleportation. How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the TeleportPlayerMovement scene from Assets/Scenes folder."
+  },
+  "manual/JMRSamples.html": {
+    "href": "manual/JMRSamples.html",
+    "title": "Sample | JMR Samples",
+    "keywords": "Sample"
+  }
+}
