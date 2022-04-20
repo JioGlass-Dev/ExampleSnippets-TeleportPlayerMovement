@@ -3,7 +3,7 @@ Example of implementing teleport based player movement
 
 ## Scripts 
 
-### [`TeleportPlayerMovement.cs`](https://github.com/JioGlass-Dev/ExampleSnippets-TeleportPlayerMovement/blob/main/Assets/Scripts/TeleportPlayerMovement/TeleportPlayerMovement.cs)
+### [`TeleportBasedMovement.cs`](https://github.com/JioGlass-Dev/ExampleSnippets-TeleportPlayerMovement/blob/main/Assets/Scripts/TeleportBasedMovement/TeleportBasedMovement.cs)
 Shows example of moving the player using teleportation.</br>
 
 ## How to use?
