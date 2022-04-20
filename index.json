@@ -12,7 +12,7 @@
   "index.html": {
     "href": "index.html",
     "title": "Teleport Player Movement | JMR Samples",
-    "keywords": "Teleport Player Movement Example of implementing teleport based player movement Scripts TeleportPlayerMovement.cs Shows example of moving the player using teleportation. How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the TeleportPlayerMovement scene from Assets/Scenes folder."
+    "keywords": "Teleport Player Movement Example of implementing teleport based player movement Scripts TeleportBasedMovement.cs Shows example of moving the player using teleportation. How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the TeleportPlayerMovement scene from Assets/Scenes folder."
   },
   "manual/JMRSamples.html": {
     "href": "manual/JMRSamples.html",
